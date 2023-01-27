@@ -2,7 +2,7 @@
 
 [Video Demo](https://www.youtube.com/watch?v=mEq93ptUbgI)
 
-This is backend repository for Dasy. Dashy is a MERN stack productivity dashboard.
+This is backend repository for Dashy. Dashy is a MERN stack productivity dashboard.
 
 [Link to Frontend](https://github.com/ssafali/dashboard-frontend)
 
